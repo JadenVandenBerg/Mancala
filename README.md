@@ -4,7 +4,7 @@ Mancala
 
 ## Description
 
-An object oriented program that allows two users to play mancala in the terminal.
+An object oriented program that allows two users to play mancala.
 
 ## Getting Started
 
